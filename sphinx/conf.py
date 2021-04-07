@@ -13,7 +13,13 @@
 
 import os
 import sys
+
+#The subdirectories are not imported so creating a list.
+#path_list = ["../learning_sphinx/","../learning_sphinx/third_folder","../second_folder/"]
 sys.path.insert(0, os.path.abspath('../learning_sphinx/'))
+sys.path.insert(1, os.path.abspath('../learning_sphinx/third_folder'))
+sys.path.insert(2, os.path.abspath('../second_folder'))
+               
 
 
 # -- Project information -----------------------------------------------------
