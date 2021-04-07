@@ -1,1 +1,1 @@
-Code Documentation==================.. automodule:: testsphinx    :members:
+Code Documentation==================.. automodule:: testsphinx    :members:.. automodule:: helloworld    :members:    .. automodule:: printother    :members:
