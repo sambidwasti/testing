@@ -1,9 +1,17 @@
-"""
-Hello World.
 
-This is a test for hellow world
+def helloworld(string)
+	"""
+    Print the string. 
+    
+    Parameters
+    ----------
+    arg1 : String
 
-@author: swasti
-"""
+    Returns
+    -------
+    Printing the string
 
-print("Hello World!")
+	"""
+	print(string)
+
+	
